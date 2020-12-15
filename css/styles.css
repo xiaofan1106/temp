@@ -1898,7 +1898,7 @@ a:hover.back-to-top {
 	.header .btn-solid-lg {
 		margin-right: 0.625rem;
 		margin-left: 0;
-	}
+  }
 	/* end of header */
 
 
@@ -2263,3 +2263,8 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+.border-pic {
+  border: 10px solid white;
+  border-radius: 30px;
+}
